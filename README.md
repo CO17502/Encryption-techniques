@@ -1,4 +1,4 @@
-# DES-Encryption
+# Encryption Techniques
 Implementation of various cyber security algorithms using python
 1.  DES (Data Encryption Standard)
 2. ColumnarCipher
